@@ -1,0 +1,5 @@
+1.解决docker容器无法上网问题以及各位网络配置问题
+2.解决dockerfile企业级部署（在公司只要会部署nginx和mysql就行）
+3.dockerfile的私有仓库部署
+4.shell的基本命令，https://www.cnblogs.com/yxiaodao/p/10626385.html  （看完一半）
+https://www.cnblogs.com/root0/articles/8682890.html
